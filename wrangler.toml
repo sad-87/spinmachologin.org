@@ -1,0 +1,11 @@
+name = "spinmachologin-org"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmachologin.org"
+HMAC_KEY = "f644479a2d16ef9a90575ce05e340b0fea20c2fdc82e5d7d5cb6d67bd06d8f82"
+COOKIE_NAME = "izl"
+PLAY_PATH = "begin"
+BUTTON_ID = "p3eeb22a6317ca91e93cfaa56a9185a10"
+GATE_SALT = "2e05161010d6a5e8"
